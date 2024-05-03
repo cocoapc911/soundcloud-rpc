@@ -6,3 +6,5 @@
 <h1>App IDの取得方法はさすがに自分で調べてください、、、</h1>
 
 <h1>SoundCloudのOAuth Token & Client_IDの取得方法</h1>
+<h2>[SoundCloud](https://soundcloud.com/discover)にアクセス</h2>
+<p>開いたらF12 or Ctrl + Shift + Iを同時押し</p>
