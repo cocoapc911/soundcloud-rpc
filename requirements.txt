@@ -1,2 +1,3 @@
 pypresence
 requests
+bs4
