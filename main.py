@@ -3,7 +3,7 @@ from pypresence import Presence
 import time
 
 #Discord Developer Portalで作成したApp ID
-app_id = 123456789
+app_id = 1234521813808185384
 #SoundCloudで取得したOAuth TokenとClient_id
 oauth2,client_id = "OAuthから始まるToken(OAuthという文字も含めます)","Sound_cloudのClient_id"
 
