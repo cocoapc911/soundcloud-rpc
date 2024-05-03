@@ -8,5 +8,5 @@
 <h1>SoundCloudのOAuth Token & Client_IDの取得方法</h1>
 <h2>(https://soundcloud.com/discover) にアクセス</h2>
 <p>開いたらF12 or Ctrl + Shift + Iを同時押し</p>
-![image](https://github.com/cocoapc911/soundcloud-rpc/assets/127626229/f4d83b1d-c59a-415b-be03-18f96041a16e)
-
+<img src="https://github.com/cocoapc911/soundcloud-rpc/assets/127626229/f4d83b1d-c59a-415b-be03-18f96041a16e"/>
+<p>この部分にapiと入力しEnterキーで検索開始</p>
