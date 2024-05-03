@@ -10,3 +10,6 @@
 <p>開いたらF12 or Ctrl + Shift + Iを同時押し</p>
 <img src="https://github.com/cocoapc911/soundcloud-rpc/assets/127626229/f4d83b1d-c59a-415b-be03-18f96041a16e"/>
 <p>この部分にapiと入力しEnterキーで検索開始</p>
+<img src="https://github.com/cocoapc911/soundcloud-rpc/assets/127626229/01625dc1-8bc1-4a97-8ce7-d383d85aec48"/>
+<p>一番上に出てきた通信をクリック、Request URL:の中にclient_idが隠れているので&の部分までclientidをコピー</p>
+<p>Oauth TokenはRequest HeadersのAuthorization:の中にあります</p>
